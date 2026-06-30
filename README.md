@@ -42,20 +42,5 @@ The forecasting model achieved the following performance metrics:
 | MAPE | **68.06%** |
 | RMSE | **1934.78** |
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Statsmodels
-- SARIMA
-- STL Decomposition
-
-## Project Objectives
-
-- Understand the trend and seasonal patterns in e commerce transactions.
-- Compare Classical and STL decomposition methods.
-- Detect anomalies in weekly sales.
 - Forecast future sales using a Seasonal ARIMA model.
 - Evaluate forecasting performance using MAPE and RMSE.
