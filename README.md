@@ -42,5 +42,3 @@ The forecasting model achieved the following performance metrics:
 | MAPE | **68.06%** |
 | RMSE | **1934.78** |
 
-- Forecast future sales using a Seasonal ARIMA model.
-- Evaluate forecasting performance using MAPE and RMSE.
